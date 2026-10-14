@@ -10,6 +10,8 @@
 
 ### Folders:
 * Create a folder with any name you want to give it.
+* Create a folder with the name themes.
+* Inside the folder create another folder with the name you give it.
 * Inside the folder, create a subfolder named **resources**. **This will be the folder with everything inside.**
 
 ### Wallpaper and Loading Screen:
@@ -31,12 +33,12 @@
 * Music playing when booting a game named: **BOOT.MP3**
 
 ## Step 2:
-* Place the code next to the ressources folder
-* Open the terminal inside the root folder
-* Run the script with ```python3 pkg.py``` and a file named THEME.ARK should pop up
+* Place the code next to the themes folder
+* Double click on the script.
+* After navigate inside the folder you named inside themes and a file THEME.ARK should appear next to ressources.
 
 ## Step 3:
-* Go to the directory ```PSP/SAVEDATA/ARK_01234/```
+* Go to the directory ```PSP/SAVEDATA/ARK_01234/``` from your psp
 * Copy the new THEME.ARK inside or create a folder if there's more themes
 * Disconnect the psp or eject the sd card
 
