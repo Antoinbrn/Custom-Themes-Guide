@@ -20,17 +20,35 @@
 * Find a loadign screen image you like and name it: **LOADING.PNG**
 
 ### Menu Icons (100x100 or 80x80):
-* File Explorer named: **BOX.PNG**
-* Internet Browser named: **BROWSER.PNG**
-* Exit named: **EXIT.PNG**
-* FTP Connection named: **FTP.PNG**
-* Game menu named: **GAME.PNG**
-* Plugins named: **PLUGINS.PNG**
-* Settings named: **SETTINGS.PNG**
+* BOX.PNG (80X80)
+* BROWSER.PNG (100x100)
+* CHECK.PNG (16x16)
+* DEFBG.PNG (480x272)
+* EXIT.PNG (100x100)
+* FILE.PNG (16X16 )
+* FOLDER.PNG (16x16)
+* FTP.PNG (100x100)
+* GAME.PNG (100x100)
+* ISO.PNG (16X16)
+* LOADING.PNG (480x272)
+* MUSIC.PNG (16X16)
+* NOICON.PNG (16X16)
+* PBP.PNG (16x16)
+* PICTURE.PNG (16X16 )
+* PLUGINS.PNG (100x100)
+* PRX.PNG (16X16)
+* SETTINGS.PNG (100x100)
+* PLUGINS (16x16)
+* SPRITE.PNG (22x22)
+* TXT.PNG (16X16)
+* UNCHECK.PNG (16x16)
+* WAIT.PNG (16X16)
+* ZIP.PNG (16x16)
 
 ### Music:
 * Music in main menu named: **SOUND.MP3**
 * Music playing when booting a game named: **BOOT.MP3**
+* Sound playing named: **SOUND.MP3**
 
 ## Step 2:
 * Place the code next to the themes folder
